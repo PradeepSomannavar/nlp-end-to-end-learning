@@ -1,7 +1,5 @@
 # NLP End-to-End Learning
 
-This repository contains tutorials and projects for Natural Language Processing (NLP).
-
 ## Contents
 
 - **Text Preprocessing**: A comprehensive guide to text cleaning, tokenization, lemmatization, and stopword removal.
